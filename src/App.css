@@ -3,5 +3,13 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  display: flex;
+  justify-content: space-around;
+}
+#gilad{
+  border: 2px black solid;
+  width: 350px;
+  margin: 10px;
+  
 }
 
